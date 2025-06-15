@@ -1,33 +1,29 @@
 title: "Utkarsh Bajpai"
 name: "Utkarsh Bajpai"
-description: "Scientist at IBM Research working on semiconductors."
-url: "https://utkb23.github.io" # Your GitHub Pages URL
+email: "youremail@example.com"
+description: "I am Utkarsh Bajpai, a scientist at IBM Research working on semiconductors."
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Social links
+author:
+  name: "Utkarsh Bajpai"
+  avatar: "/assets/images/avatar.png" # optional
+  bio: "I am Utkarsh Bajpai and I am scientist at IBM Research. I work on semiconductors."
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=EK4ZIp0AAAAJ&hl=en"
+
+# Navigation
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - blog.md
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-author:
-  name: "Utkarsh Bajpai"
-  bio: "I am Utkarsh Bajpai and I am scientist at IBM Research. I work on semiconductors."
-
-# Navigation
-header:
-  pages:
-    - title: "About Me"
-      url: /about/
-    - title: "Research"
-      url: /research/
-    - title: "Publications"
-      url: /publications/
-    - title: "Personal Blog"
-      url: /blog/
-
-# Social
-social:
-  links:
-    - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=EK4ZIp0AAAAJ&hl=en"
+  - jekyll-remote-theme
