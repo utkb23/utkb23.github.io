@@ -28,7 +28,12 @@ social:
     icon: "scholar"
 
 # Theme
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Plugins (for blog and other features)
 plugins:
