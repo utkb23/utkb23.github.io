@@ -3,7 +3,7 @@ name: "Utkarsh Bajpai"
 email: "youremail@example.com"
 description: "I am Utkarsh Bajpai, a scientist at IBM Research working on semiconductors."
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 
 # Social links
 author:
