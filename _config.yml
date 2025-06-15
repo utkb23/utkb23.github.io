@@ -1,9 +1,9 @@
-title: "Utkarsh Bajpai"
+title: "Home"
 name: "Utkarsh Bajpai"
-email: "youremail@example.com"
+email: "utkbwrk23@gmail.com"
 description: "I am Utkarsh Bajpai, a scientist at IBM Research working on semiconductors."
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Social links
 author:
@@ -15,15 +15,15 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=EK4ZIp0AAAAJ&hl=en"
 
-# Navigation
-header_pages:
-  - about.md
-  - research.md
-  - publications.md
-  - blog.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+collections:
+  pages:
+    output: true
+
+
