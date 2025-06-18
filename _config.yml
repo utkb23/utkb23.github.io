@@ -1,23 +1,25 @@
 title: "Home"
 name: "Utkarsh Bajpai"
 email: "utkbwrk23@gmail.com"
-description: "Hi, I'm Utkarsh, I am Staff Research Scientist at IBM at the T. J. Watson Research
+description: "Hi, I'm Utkarsh, I am a Staff Research Scientist at IBM at the T. J. Watson Research
        Center, at Yorktown Heights, working on some of the coolest problems in advanced
       semiconductor technology. Most of my time goes into figuring out how to make next-gen
-      CMOS devices--like super small transitors--going faster and faster each generation.
-      I love physics, this website is a collection of some of work and my thoughts."
+      CMOS devices--like super small transitors, going faster and faster each generation.
+      I am a physics nerd and just love learning about new things. This website is a collection of 
+      some of work and thoughts. Take a look and enjoy!"
 
 remote_theme: mmistakes/minimal-mistakes
 
 # Social links
 author:
   name: "Utkarsh Bajpai"
-  avatar: "/assets/images/avatar.png" # optional
-  bio: "Hi, I'm Utkarsh, I am Staff Research Scientist at IBM at the T. J. Watson Research
-       Center, at Yorktown Heights, working on some of the coolest problems in advanced
+  avatar: "/assets/images/avatar.jpg" # optional
+  bio: "Hi, I'm Utkarsh, I am a Staff Research Scientist at IBM Research (T. J. Watson Research
+       Center, Yorktown Heights, NY) working on some of the coolest problems in advanced
       semiconductor technology. Most of my time goes into figuring out how to make next-gen
-      CMOS devices--like super small transitors--going faster and faster each generation.
-      I love physics, this website is a collection of some of work and my thoughts. "
+      CMOS devices--like super small transitors, going faster and faster each generation.
+      I am a physics nerd and just love learning about new things. This website is a collection of
+      some of my work and thoughts. Take a look and enjoy!"
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
