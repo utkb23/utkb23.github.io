@@ -1,7 +1,11 @@
 title: "Home"
 name: "Utkarsh Bajpai"
 email: "utkbwrk23@gmail.com"
-description: "I am Utkarsh Bajpai, a scientist at IBM Research working on semiconductors."
+description: "Hi, I'm Utkarsh, I am Staff Research Scientist at IBM at the T. J. Watson Research
+       Center, at Yorktown Heights, working on some of the coolest problems in advanced
+      semiconductor technology. Most of my time goes into figuring out how to make next-gen
+      CMOS devices--like super small transitors--going faster and faster each generation.
+      I love physics, this website is a collection of some of work and my thoughts."
 
 remote_theme: mmistakes/minimal-mistakes
 
