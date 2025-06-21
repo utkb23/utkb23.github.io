@@ -35,5 +35,6 @@ plugins:
 collections:
   pages:
     output: true
+    permalink: /:name/
 
 
