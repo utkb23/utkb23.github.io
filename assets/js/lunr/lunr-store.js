@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"Publications   Your Publication details here…  ","categories": [],
+        "excerpt":"NanoStack transistor architecture for CMOS 7A Node &amp; beyond Proposes sequential stacking of nano sheet FET for advanced semiconductor nodes Monolithic stacked FET Proposes a monolithic stacked FET architecture with stepped channels designed for next‑generation logic applications. Semimetal interface resistivity Studies interface resistivity scaling in semimetal/metal vertical interconnect structures for...","categories": [],
         "tags": [],
         "url": "/Publications/",
         "teaser": null
