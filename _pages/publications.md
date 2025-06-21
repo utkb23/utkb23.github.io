@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 layout: splash
 ---
 
