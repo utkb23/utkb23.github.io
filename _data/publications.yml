@@ -61,8 +61,8 @@
 - short_title: "Topological semimetals for interconnects"
   title: "Topological Semimetals for Scaled Back‑End‑Of‑Line Interconnect Beyond Cu"
   description: "Proposes semimetal materials as next‑generation interconnects, showing superior scaling and performance over conventional copper."
-  image: "/assets/images/pubs/topo_semimetals.jpg"
-  url: "https://ieeexplore.ieee.org/document/9375299"
+  image: "/assets/images/publications/topo_semimetals.jpg"
+  url: "https://ieeexplore.ieee.org/abstract/document/9371996"
 
 - short_title: "Floquet spin‑mixing conductance"
   title: "Effective spin‑mixing conductance of topological‑insulator/ferromagnet and heavy‑metal/ferromagnet spin‑orbit‑coupled interfaces: A first‑principles Floquet‑nonequilibrium Green function approach"
