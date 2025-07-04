@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Publications",
-        "excerpt":"NanoStack transistor architecture for CMOS 7A Node &amp; beyond Proposes sequential stacking of nano sheet FET for advanced semiconductor nodes Monolithic stacked FET Proposes a monolithic stacked FET architecture with stepped channels designed for next‑generation logic applications. Semimetal interface resistivity Studies interface resistivity scaling in semimetal/metal vertical interconnect structures for...","categories": [],
+        "excerpt":"NanoStack transistor architecture for CMOS 7A Node &amp; beyond A ground breaking work from IBM that proposes sequential stacking of nanosheet FETs in the vertical direction for advanced semiconductor nodes A view on monolithic stacked FETs with stepped channels IBM presents its latest view on integrating monolithic stacked FETs with...","categories": [],
         "tags": [],
         "url": "/publications/",
         "teaser": null
