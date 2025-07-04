@@ -1,61 +1,72 @@
 - short_title: "NanoStack transistor architecture for CMOS 7A Node & beyond"
-  title: "NanoStack transistor architecture for CMOS 7A Node & beyond"
-  description: "Proposes sequential stacking of nano sheet FET for advanced semiconductor nodes"
+  title: "NanoStack transistor architecture for CMOS 7A node & beyond"
+  description: "A ground breaking work from IBM that proposes sequential stacking of nanosheet FETs 
+                in the vertical direction for advanced semiconductor nodes"
   image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://research.ibm.com/publications/nanostack-transistor-architecture-for-cmos-7a-node-and-beyond"
 
-- short_title: "Monolithic stacked FET"
+- short_title: "A view on monolithic stacked FETs with stepped channels"
   title: "Monolithic Stacked FET with Stepped Channels for Future Logic Technologies"
-  description: "Proposes a monolithic stacked FET architecture with stepped channels designed for next‑generation logic applications."
-  image: "/assets/images/pubs/stacked_fet.jpg"
+  description: "IBM presents its latest view on integrating monolithic stacked FETs with a
+                stepped channel architecture as opposed to aligned nanosheet architechture."
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://ieeexplore.ieee.org/abstract/document/10873419"
 
-- short_title: "Semimetal interface resistivity"
+- short_title: "Topological semimetals interface resistivity scaling for chip interconnects"
   title: "Topological semimetal interface resistivity scaling for vertical interconnect applications"
-  description: "Studies interface resistivity scaling in semimetal/metal vertical interconnect structures for future electronics."
-  image: "/assets/images/pubs/interface_resistivity.jpg"
-  url: "https://doi.org/10.1063/5.0191847"
+  description: "Using techineques of non-equilibrium Green functions (NEGF) we study interface 
+                resistivity scaling in topological-semimetal/metal vertical interconnect 
+                structures for future interconnect applications"
+  image: "/assets/images/publications/nanostacked_fet.png"
+  url: "https://pubs.aip.org/aip/apl/article-abstract/124/18/181603/3286950/Topological-semimetal-interface-resistivity?redirectedFrom=fulltext"
 
-- short_title: "Light‑driven entanglement"
-  title: "Witnessing light‑driven entanglement using time‑resolved resonant inelastic X‑ray scattering"
-  description: "Uses time‑resolved RIXS to directly observe light‑induced entanglement dynamics in correlated materials."
-  image: "/assets/images/pubs/light_entanglement.jpg"
+- short_title: "Witnessing light-driven quantum entanglement with time-resolved RIXS"
+  title: "Witnessing light‑driven entanglement using time‑resolved RIXS"
+  description: "Using the theory of time-resolved resonant inelastic scattering spectroscopy (tr-RIXS) we
+                propose an entanglement witness and apply it to light induced entanglement in many-body
+                quantum systems"
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1038/s41467-023-40575-w"
 
-- short_title: "Resistivity scaling in CoSi"
+- short_title: "Unconventional resistivity scaling behavior in topological semimetal CoSi"
   title: "Unconventional resistivity scaling in topological semimetal CoSi"
-  description: "Reports non‑standard resistivity scaling in CoSi, linking it to topological band structure and scattering mechanisms."
-  image: "/assets/images/pubs/cosi_resistivity.jpg"
+  description: "We report on non‑standard resistivity scaling in CoSi (unlike conventional metals), 
+                linking it to its topological band structure and associated scattering mechanisms."
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1038/s41535-022-00556-2"
 
-- short_title: "77 K nanosheet tech"
+- short_title: "Low-temperature logic technology with nanosheet FETs at 77K"
   title: "High performance nanosheet technology optimized for 77 K"
-  description: "Presents nanosheet transistor designs optimized for cryogenic operation at 77 K with enhanced performance metrics."
-  image: "/assets/images/pubs/77K_nanosheet.jpg"
+  description: "IBM presents its ground breaking work on enabling low-temperature nanosheet transistors
+                optimized to operate at liquid Nitrogen temperatures of 77K."
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://ieeexplore.ieee.org/document/10305099"
 
-- short_title: "Grain‑boundary scattering in semimetals"
+- short_title: "Grain‑boundary scattering in topological semimetals"
   title: "Size‑Dependent Grain‑Boundary Scattering in Topological Semimetals"
-  description: "Analyzes how grain‑boundary scattering impacts transport in topological semimetals, with size‑dependent resistivity trends."
-  image: "/assets/images/pubs/grain_boundary.jpg"
+  description: "We analyze how grain‑boundary scattering impacts transport in topological semimetals,
+                with size‑dependent resistivity trends."
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1103/PhysRevApplied.18.034053"
 
-- short_title: "Electron‑magnon noneq. GF"
+- short_title: "Quantum many‑body states of nonequilibrium electron‑magnon systems"
   title: "Quantum many‑body states and Green's functions of nonequilibrium electron‑magnon systems: Localized spin operators versus their mapping to Holstein‑Primakoff bosons"
-  description: "Compares two approaches to model electron‑magnon coupling out of equilibrium, highlighting accuracy trade‑offs in many‑body GF techniques."
-  image: "/assets/images/pubs/electron_magnon.jpg"
+  description: "Our interesting work on comparing limits of Holstien-Primakoff boson model
+                of magnons during nonequilibrium electron-magnon interaction highlighting'
+                accuracy trade‑offs in many‑body Green function techniques."
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1103/PhysRevB.104.184425"
 
-- short_title: "Soliton annihilation burst"
+- short_title: "Annihilation of topological solitons in magnetism with spin‑wave burst finale"
   title: "Annihilation of topological solitons in magnetism with spin‑wave burst finale: Role of nonequilibrium electrons causing nonlocal damping and spin pumping over ultrabroadband frequency range"
   description: "Shows that nonequilibrium electrons cause explosive spin‑wave bursts during annihilation of topological magnetic solitons."
-  image: "/assets/images/pubs/soliton_annihilation.jpg"
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1103/PhysRevB.104.L020407"
 
-- short_title: "Magnon‑driven chiral pumping"
+- short_title: "Time-depenedent magnon‑driven chiral charge and spin pumping "
   title: "Magnon‑driven chiral charge and spin pumping and electron‑magnon scattering from time‑dependent quantum transport combined with classical atomistic spin dynamics"
   description: "Shows chiral charge/spin pumping induced by magnon excitations, combining quantum transport with atomistic spin dynamics."
-  image: "/assets/images/pubs/chiral_pumping.jpg"
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1103/PhysRevB.101.214412"
 
 - short_title: "Topological semimetals for interconnects"
@@ -64,54 +75,62 @@
   image: "/assets/images/publications/topo_semimetals.jpg"
   url: "https://ieeexplore.ieee.org/abstract/document/9371996"
 
-- short_title: "Floquet spin‑mixing conductance"
+- short_title: "First‑principles Floquet Green functions to evaluate spin‑mixing conductance"
   title: "Effective spin‑mixing conductance of topological‑insulator/ferromagnet and heavy‑metal/ferromagnet spin‑orbit‑coupled interfaces: A first‑principles Floquet‑nonequilibrium Green function approach"
-  description: "First‑principles Floquet GF study of spin‑mixing conductance at TI/FM and HM/FM interfaces under periodic driving."
-  image: "/assets/images/pubs/spin_mixing.jpg"
+  description: "We develop a first‑principles Floquet Green function approach to evaluate
+                previously elusive spin‑mixing conductance with and without presence of spin-orbit
+                coupling"
+  image: "/assets/images/publications/nanostacked_fet.png"
   url: "https://doi.org/10.1103/PhysRevMaterials.4.121201"
 
-- short_title: "Geometric spin torque & damping"
+- short_title: "Spintronics meets nonadiabatic molecular dynamics"
   title: "Spintronics Meets Nonadiabatic Molecular Dynamics: Geometric Spin Torque and Damping on Dynamical Classical Magnetic Texture due to an Electronic Open Quantum System"
-  description: "Shows how geometric spin torque and damping emerge on moving magnetic textures when coupled to open quantum electron systems using nonadiabatic MD."
+  description: "Shows how geometric spin torque and damping emerge on moving magnetic textures 
+                when coupled to open quantum electron systems analogus to nonadiabatic molecular dynamics"
   image: "/assets/images/publications/geometric_spin_torque.png"
   url: "https://doi.org/10.1103/PhysRevLett.125.187202"
 
-- short_title: "Edge‑state Floquet transport"
+- short_title: "On the robusteness of edge-state transport in Floquet topological insulators"
   title: "Robustness of quantized transport through edge states of finite length: Imaging current density in Floquet topological versus quantum spin and anomalous Hall insulators"
-  description: "Compares current density distributions in Floquet topological, quantum spin, and anomalous Hall insulators, assessing edge‑state transport robustness."
-  image: "/assets/images/pubs/edge_floquet.jpg"
+  description: "Compares current density distributions in Floquet topological, quantum spin, 
+                and anomalous Hall insulators, assessing the robustness of edge‑state transport."
+  image: "/assets/images/publications/geometric_spin_torque.png"
   url: "https://doi.org/10.1103/PhysRevResearch.2.033438"
 
-- short_title: "Magnon‑ vs electron‑mediated STT"
+- short_title: "Magnon‑ vs electron‑mediated spin transfer torque in antiferromagnetic insulators"
   title: "Magnon‑ versus Electron‑Mediated Spin‑Transfer Torque Exerted by Spin Current across an Antiferromagnetic Insulator to Switch the Magnetization of an Adjacent Ferromagnetic Metal"
   description: "Quantifies magnon‑ and electron‑mediated spin‑transfer torque efficiencies in AFI/FM bilayers for switching applications."
-  image: "/assets/images/pubs/magnon_vs_electron_stt.jpg"
+  image: "/assets/images/publications/geometric_spin_torque.png"
   url: "https://doi.org/10.1103/PhysRevApplied.15.034089"
 
 
-- short_title: "Time‑retarded damping & magnetic inertia"
+- short_title: "Quantum-classical time‑retarded damping & magnetic inertia in spintronic systems"
   title: "Time‑retarded damping and magnetic inertia in the Landau‑Lifshitz‑Gilbert equation self‑consistently coupled to electronic time‑dependent nonequilibrium Green functions"
   description: "Quantum‑classical hybrid simulations reveal memory‑dependent Gilbert damping and magnetic inertia arising from coupling of LLG to time‑dependent nonequilibrium Green functions."
-  image: "/assets/images/pubs/llg_damping.jpg"
+  image: "/assets/images/publications/time_retardation.png"
   url: "https://doi.org/10.1103/PhysRevB.99.134409"  # :contentReference[oaicite:6]{index=6}
 
 
-- short_title: "Shift‑current quantum pumping"
+- short_title: "Shift‑current quantum pumping in non-centrosymmetric materials"
   title: "Spatio‑temporal dynamics of shift current quantum pumping by femtosecond light pulse"
-  description: "Uncovers superballistic transport and two‑photon absorption effects during shift current generation triggered by ultrafast light pulses in noncentrosymmetric devices."
-  image: "/assets/images/pubs/shift_current.jpg"
+  description: "Using time-dependent nonequilibirum Green functions we uncover superballistic
+                transport and two‑photon absorption effects during shift current generation
+                triggered by ultrafast light pulses in noncentrosymmetric devices."
+  image: "/assets/images/publications/time_retardation.png"
   url: "https://doi.org/10.1088/2515-7639/ab0a3e"  # :contentReference[oaicite:7]{index=7}
 
 
-- short_title: "Quantum spin‑transfer torque"
+- short_title: "What is quantum spin‑transfer torque?"
   title: "Quantum spin transfer torque induced nonclassical magnetization dynamics and electron‑magnetization entanglement"
-  description: "Demonstrates nonclassical magnetization dynamics and entanglement driven by quantum spin‑transfer torque in nanoscale magnets."
-  image: "/assets/images/pubs/quantum_stt.jpg"
+  description: "We introduce the concept of nonclassical magnetization dynamics and entanglement
+                driven by a fully quantum theory of spin‑transfer torque in nanoscale magnets."
+  image: "/assets/images/publications/domain_wall_motion.png"
   url: "https://doi.org/10.1103/PhysRevB.99.094431"
 
 
-- short_title: "Spin/charge pumping in DW"
+- short_title: "A time-dependent framework to study spin and charge pumping during magnetic domain wall motion"
   title: "Spin and charge pumping by a Steady or Pulse‑Current‑Driven Magnetic Domain Wall: A Self‑Consistent Multiscale Time‑Dependent Quantum‑Classical Hybrid Approach"
-  description: "Describes domain‑wall mediated spin and charge pumping using a novel quantum‑classical hybrid approach under steady or pulsed currents."
-  image: "/assets/images/pubs/dw_pumping.jpg"
+  description: "We describe domain‑wall mediated spin and charge pumping using a novel
+                quantum‑classical hybrid approach under steady or pulsed currents."
+  image: "/assets/images/publications/domain_wall_motion.png"
   url: "https://doi.org/10.1103/PhysRevApplied.10.054038"
